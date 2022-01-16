@@ -4,10 +4,6 @@
 
 I'm passionate about code & design. I enjoy making ideas alive.
 
-I try reasoning from the first principles by research on my own. Reading alongside empirical research helps a lot.
-
-I consider myself a pragmatic developer.
-
 I treat life as a game and wish to know more about leveling up.
 
 Give me a quest ¿
