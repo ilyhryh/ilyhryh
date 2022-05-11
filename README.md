@@ -8,4 +8,4 @@ I treat life as a game and wish to know more about leveling up.
 
 Give me a quest ¿
 
-ilyhryh@gmail.com
+ilyhryh@duck.com
