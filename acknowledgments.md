@@ -4,7 +4,6 @@
 
 ## Books
 
-* [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
 * [Education and the Significance of Life by Krishnamurti](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life)
 * [Man’s Search for Meaning by Viktor E. Frankl](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
 * [Meditations by Marcus Aurelius](https://www.goodreads.com/book/show/30659.Meditations)
@@ -12,6 +11,11 @@
 * [The Prince by Niccolò Machiavelli](https://www.goodreads.com/book/show/28862.The_Prince)
 * [Why Zebras Don't Get Ulcers by Robert M. Sapolsky](https://www.goodreads.com/book/show/327.Why_Zebras_Don_t_Get_Ulcers)
 * [Algorithms to Live By: The Computer Science of Human Decisions by Brian Christian, Tom Griffiths](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
+
+---
+
+* [How to Win Friends and Influence People by Dale Carnegie](https://www.goodreads.com/author/show/3317.Dale_Carnegie)
+* [How to Stop Worrying and Start Living: Time-Tested Methods for Conquering Worry by Dale Carnegie](https://www.goodreads.com/book/show/4866.How_to_Stop_Worrying_and_Start_Living)
 
 ---
 
@@ -36,6 +40,11 @@
 * [The Richest Man in Babylon by George S. Clason](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
 * [Think and Grow Rich by Napoleon Hill](https://www.goodreads.com/book/show/1005.Think_and_Grow_Rich)
 * [Rich Dad, Poor Dad by Robert T. Kiyosaki](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)
+
+---
+
+* [Models: Attract Women Through Honesty by Mark Manson](https://www.goodreads.com/book/show/12633800-models)
+
 
 ## Videos
 
@@ -62,3 +71,11 @@
 ## Forums
 
 * [Hacker News](https://hn.algolia.com/)
+
+## Solyanka
+
+* [Andrew Huberman](https://www.hubermanlab.com/)
+  * https://www.youtube.com/@hubermanlab
+* [Joseph Everett](https://josepheverettwil.substack.com/)
+  * https://www.youtube.com/@WhatIveLearned
+* [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky)
