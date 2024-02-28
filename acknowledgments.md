@@ -49,6 +49,7 @@
 ## Videos
 
 * [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
+* [Spaceship You](https://www.youtube.com/watch?v=snAhsXyO3Ck)
 
 ---
 
