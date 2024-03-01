@@ -80,3 +80,5 @@
 * [Joseph Everett](https://josepheverettwil.substack.com/)
   * https://www.youtube.com/@WhatIveLearned
 * [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky)
+* [Alexey Guzey](https://guzey.com/)
+* [Gwern Branwen](https://gwern.net/)
