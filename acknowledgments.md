@@ -77,8 +77,13 @@
 
 * [Andrew Huberman](https://www.hubermanlab.com/)
   * https://www.youtube.com/@hubermanlab
+  * https://www.hubermanlab.com/newsletter/toolkit-for-sleep
 * [Joseph Everett](https://josepheverettwil.substack.com/)
   * https://www.youtube.com/@WhatIveLearned
 * [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky)
 * [Alexey Guzey](https://guzey.com/)
 * [Gwern Branwen](https://gwern.net/)
+* [Patrick Collison](https://patrickcollison.com)
+  * https://patrickcollison.com/advice
+* [Sam Altman](https://blog.samaltman.com/)
+  * https://blog.samaltman.com/what-i-wish-someone-had-told-me
