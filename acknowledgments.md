@@ -55,7 +55,7 @@
 
 * [Justice with Michael Sandel](https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6)
 * [Don't Talk to the Police with James Duane](https://www.youtube.com/watch?v=d-7o9xYp7eE)
-* [How to Speak with Patrick Winston](youtube.com/watch?v=Unzc731iCUY)
+* [How to Speak with Patrick Winston](https://youtube.com/watch?v=Unzc731iCUY)
 * [Human Behavioral Biology with Robert Sapolsky](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
 * [The Rules for Rulers by CGP Grey](https://www.youtube.com/watch?v=rStL7niR7gs)
 * [Death & Dynasties by CGP Grey](https://www.youtube.com/watch?v=ig_qpNfXHIU)
@@ -63,11 +63,26 @@
 
 ## Blogs
 
+* [Wait But Why (waitbutwhy.com)](https://waitbutwhy.com/)
+* [Bartosz Ciechanowski (ciechanow.ski)](https://ciechanow.ski/)
+
+---
+
 * [Raw Nerve by Aaron Swartz](http://www.aaronsw.com/weblog/rawnerve)
-* [vas3k](https://vas3k.blog/)
-* [Wait But Why](https://waitbutwhy.com/)
-* [Paul Graham](https://paulgraham.com/)
-* [Bartosz Ciechanowski](https://ciechanow.ski/)
+* [Paul Graham (paulgraham.com)](https://paulgraham.com/)
+
+---
+
+* [Vasily Zubarev (vas3k.blog)](https://vas3k.blog/)
+* [Vadim Kravcenko (vadimkravcenko.com)](https://vadimkravcenko.com/)
+* [Jeff Atwood (codinghorror.com)](https://blog.codinghorror.com/)
+* [Jose Browne (josebrowne.com)](https://josebrowne.com/)
+* [Derek Sivers (sive.rs)](https://sive.rs/)
+* [Sam Altman](https://blog.samaltman.com/)
+  * https://blog.samaltman.com/what-i-wish-someone-had-told-me
+  * https://blog.samaltman.com/how-to-be-successful
+* [Dan Luu (danluu.com)](https://danluu.com/)
+* [Simon Willison (simonwillison.net)](https://simonwillison.net/)
 
 ## Forums
 
@@ -85,5 +100,3 @@
 * [Gwern Branwen](https://gwern.net/)
 * [Patrick Collison](https://patrickcollison.com)
   * https://patrickcollison.com/advice
-* [Sam Altman](https://blog.samaltman.com/)
-  * https://blog.samaltman.com/what-i-wish-someone-had-told-me
