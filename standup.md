@@ -66,6 +66,7 @@
   * [Евгений Чебатков: Не оборачивайся (2023)](https://www.youtube.com/watch?v=jjrkb65JI7I)
 * [Зоя Яровицына](https://www.instagram.com/zoya_zoo/)
   * [Зоя Яровицына: БЕЗ МУЖА (2022)](https://www.youtube.com/watch?v=95aCRTdWGsE)
+  * [Зоя Яровицына: Женские дела (2024)](https://www.youtube.com/watch?v=AzKFiKkJmAI)
 * [Сергей Орлов](https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_(%D0%BA%D0%BE%D0%BC%D0%B8%D0%BA))
   * [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=PLfO1QINjvak9KoBetr7ThGHVB2owBLH1C)
   * [Сергей Орлов: АРТИСТ (2021)](https://www.youtube.com/watch?v=uSdqkFAiJkQ)
