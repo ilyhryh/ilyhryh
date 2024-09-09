@@ -57,6 +57,8 @@
 * [Андрей Айрапетов](https://airapetovcomedy.com/)
   * [Андрей Айрапетов: Счастливый человек (2022)](https://www.youtube.com/watch?v=21JewAJdEAI)
   * [Андрей Айрапетов: ПОЗОРИЩЕ (2024)](https://www.youtube.com/watch?v=wjuvaaxccAQ)
+* [Андрей Бебуришвили](https://bebur.ru/)
+  * [Андрей Бебуришвили: Не/зависимый (2024)](https://www.youtube.com/watch?v=c0ALcfrNsIQ)
 * [Ваня Усович](https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BE%D0%B2%D0%B8%D1%87,_%D0%92%D0%B0%D0%BD%D1%8F)
   * [Ваня Усович: ЕЩЕ ОДИН ДЕНЬ (2020)](https://www.youtube.com/watch?v=yh6NYuc9gC0)
   * [Ваня Усович: 40 ЛЕТ МАКСИМУМ (2023)](https://www.youtube.com/watch?v=RTifScOdX-U)
